@@ -13,8 +13,8 @@ flowchart LR
     A -->|act| T3[✉️ Make reservation]
     T1 & T2 & T3 --> A
     A --> D[✅ Done]
-    style A fill:#fef3c7,stroke:#f59e0b
-    style D fill:#dcfce7,stroke:#22c55e
+    style A fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style D fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

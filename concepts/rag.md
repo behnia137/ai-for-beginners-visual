@@ -11,8 +11,8 @@ flowchart LR
     B --> D[📄 Relevant snippets]
     D --> E[🧠 LLM reads snippets<br/>+ your question]
     E --> F[✅ Grounded answer]
-    style C fill:#dbeafe,stroke:#3b82f6
-    style F fill:#dcfce7,stroke:#22c55e
+    style C fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style F fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

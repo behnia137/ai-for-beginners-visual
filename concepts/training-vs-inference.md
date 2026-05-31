@@ -13,8 +13,8 @@ flowchart LR
     subgraph "⚡ INFERENCE (every request, cheap-ish)"
     C --> D[Your question] --> E[Instant answer]
     end
-    style C fill:#fef3c7,stroke:#f59e0b
-    style E fill:#dcfce7,stroke:#22c55e
+    style C fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style E fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

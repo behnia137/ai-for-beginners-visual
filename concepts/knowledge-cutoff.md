@@ -11,8 +11,8 @@ flowchart LR
     C --> A1["✅ Knows it"]
     Q2["❓ 'What happened last week?'"] --> C
     C --> A2["🤷 No idea (or guesses)"]
-    style C fill:#fef3c7,stroke:#f59e0b
-    style A2 fill:#fee2e2,stroke:#ef4444
+    style C fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style A2 fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
 ## 🔧 How it actually works

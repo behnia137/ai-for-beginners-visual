@@ -11,8 +11,8 @@ flowchart TB
     S --> M[🧠 LLM]
     U --> M
     M --> R["📤 On-brand, rule-following reply"]
-    style S fill:#fef3c7,stroke:#f59e0b
-    style R fill:#dcfce7,stroke:#22c55e
+    style S fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style R fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

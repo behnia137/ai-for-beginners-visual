@@ -9,8 +9,8 @@ flowchart TB
     A["The cat sat on the mat"] --> B[⚙️ Transformer<br/>looks at ALL words at once]
     B --> C["understands 'cat' relates to 'sat'<br/>and 'mat' relates to 'on'"]
     C --> D[📝 Next word prediction]
-    style B fill:#fef3c7,stroke:#f59e0b
-    style D fill:#dcfce7,stroke:#22c55e
+    style B fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style D fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

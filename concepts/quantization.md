@@ -8,8 +8,8 @@
 flowchart LR
     A["🐘 Full model<br/>weights at 32-bit<br/>(big, precise, slow)"] --> Q[🗜️ Quantize]
     Q --> B["🐁 Shrunk model<br/>weights at 4-bit<br/>(small, fast, ~as good)"]
-    style A fill:#fee2e2,stroke:#ef4444
-    style B fill:#dcfce7,stroke:#22c55e
+    style A fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style B fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

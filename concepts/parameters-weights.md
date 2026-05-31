@@ -12,8 +12,8 @@ flowchart LR
     W2 --> O
     T["📚 Training nudges<br/>every knob a little"] -.-> W1
     T -.-> W2
-    style T fill:#fef3c7,stroke:#f59e0b
-    style O fill:#dcfce7,stroke:#22c55e
+    style T fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style O fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

@@ -11,8 +11,8 @@ flowchart LR
     A["🔊 Audio"] --> M
     V["🎬 Video"] --> M[🌈 Multimodal model]
     M --> O["📤 Understands them together<br/>'This photo shows a dog;<br/>the audio says it's barking.'"]
-    style M fill:#fef3c7,stroke:#f59e0b
-    style O fill:#dcfce7,stroke:#22c55e
+    style M fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style O fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

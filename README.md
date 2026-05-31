@@ -107,10 +107,10 @@ flowchart LR
     F -.->|sometimes| G[🌀 Hallucination]
     H[(📚 Your Documents)] -->|RAG| D
     I[🎯 Fine-tuning] -.->|specializes| D
-    style A fill:#dbeafe,stroke:#3b82f6
-    style D fill:#fef3c7,stroke:#f59e0b
-    style F fill:#dcfce7,stroke:#22c55e
-    style G fill:#fee2e2,stroke:#ef4444
+    style A fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style D fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style F fill:#dcfce7,stroke:#22c55e,color:#1f2937
+    style G fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
 > **Read it in order** if you're brand new — each concept builds on the last.

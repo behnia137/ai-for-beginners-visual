@@ -10,8 +10,8 @@ flowchart LR
     B --> C["blue ✅ (92%)"]
     B --> D["falling (5%)"]
     B --> E["purple (3%)"]
-    style B fill:#fef3c7,stroke:#f59e0b
-    style C fill:#dcfce7,stroke:#22c55e
+    style B fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style C fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 It looks at the words so far, then predicts the most likely next chunk — over and over — until a full answer appears.

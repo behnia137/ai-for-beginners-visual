@@ -8,8 +8,8 @@
 flowchart LR
     A[📦 General model<br/>knows a bit of everything] --> B[➕ Extra training on<br/>your specific examples]
     B --> C[🎯 Specialist model<br/>great at your task]
-    style A fill:#dbeafe,stroke:#3b82f6
-    style C fill:#dcfce7,stroke:#22c55e
+    style A fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style C fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

@@ -11,8 +11,8 @@ flowchart LR
     Q["❓ 'how do I reset my password?'"] --> QE[📍 Embed the question]
     QE --> V
     V --> R["🎯 Nearest matches:<br/>'Account recovery steps'"]
-    style V fill:#dbeafe,stroke:#3b82f6
-    style R fill:#dcfce7,stroke:#22c55e
+    style V fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style R fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

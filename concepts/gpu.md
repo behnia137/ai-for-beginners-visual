@@ -13,7 +13,7 @@ flowchart TB
     direction LR
     G1["•"] & G2["•"] & G3["•"] & G4["•"] & G5["•"] & G6["•"]
     end
-    style GPU fill:#dbeafe,stroke:#3b82f6
+    style GPU fill:#dbeafe,stroke:#3b82f6,color:#1f2937
 ```
 
 CPU = sequential and clever. GPU = massively parallel. AI math is huge but simple — so the GPU wins.

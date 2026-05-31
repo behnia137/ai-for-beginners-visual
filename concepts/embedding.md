@@ -12,8 +12,8 @@ flowchart TB
     D["🐶 dog"] -.close.- C["🐱 cat"]
     end
     note["🍌 banana is way over there →"]
-    style K fill:#fef3c7,stroke:#f59e0b
-    style D fill:#dbeafe,stroke:#3b82f6
+    style K fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style D fill:#dbeafe,stroke:#3b82f6,color:#1f2937
 ```
 
 "king" and "queen" sit near each other. "banana" is far away. Distance = difference in meaning.

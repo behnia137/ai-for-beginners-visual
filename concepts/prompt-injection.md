@@ -11,9 +11,9 @@ flowchart LR
     M --> D{Obeys the<br/>hidden note?}
     D -->|❌ vulnerable| Bad["Leaks data"]
     D -->|✅ defended| Good["Stays on task"]
-    style W fill:#fee2e2,stroke:#ef4444
-    style Bad fill:#fee2e2,stroke:#ef4444
-    style Good fill:#dcfce7,stroke:#22c55e
+    style W fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style Bad fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style Good fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

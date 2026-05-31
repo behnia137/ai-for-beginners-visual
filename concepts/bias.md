@@ -8,8 +8,8 @@
 flowchart LR
     D["📚 Training data<br/>(reflects the real world,<br/>flaws and all)"] --> M[🧠 Model learns patterns]
     M --> O["📤 Outputs that can<br/>repeat or amplify<br/>those flaws"]
-    style D fill:#fee2e2,stroke:#ef4444
-    style O fill:#fef3c7,stroke:#f59e0b
+    style D fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style O fill:#fef3c7,stroke:#f59e0b,color:#1f2937
 ```
 
 ## 🔧 How it actually works

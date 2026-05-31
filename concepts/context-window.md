@@ -11,7 +11,7 @@ flowchart LR
     A[oldest msg] --> B[...] --> C[your question] --> D[answer]
     end
     E[❌ too-old msg] -.falls out.-> A
-    style E fill:#fee2e2,stroke:#ef4444
+    style E fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
 Everything inside the window is "remembered." Anything pushed out is forgotten.

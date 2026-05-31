@@ -12,7 +12,7 @@ flowchart LR
     I2 --> H2
     H1 --> O((output))
     H2 --> O
-    style O fill:#dcfce7,stroke:#22c55e
+    style O fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 Inputs flow through layers of connected "neurons." Each connection has a weight (a dial). Learning = adjusting the dials.

@@ -11,8 +11,8 @@ flowchart LR
     C --> D{True?}
     D -->|sometimes| E[✅ correct]
     D -->|sometimes| F[🌀 made up]
-    style F fill:#fee2e2,stroke:#ef4444
-    style E fill:#dcfce7,stroke:#22c55e
+    style F fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style E fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

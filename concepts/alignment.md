@@ -10,9 +10,9 @@ flowchart LR
     M --> S["🛡️ 'I can't help with that.'"]
     H["🙂 'Help me write a resume'"] --> M
     M --> G["✅ Helpful answer"]
-    style M fill:#fef3c7,stroke:#f59e0b
-    style S fill:#dbeafe,stroke:#3b82f6
-    style G fill:#dcfce7,stroke:#22c55e
+    style M fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style S fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style G fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

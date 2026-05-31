@@ -10,8 +10,8 @@ flowchart LR
     M -->|"calls tool"| T["🛠️ calculator(4821, 937)"]
     T -->|"returns 4,517,277"| M
     M --> R["📤 'It's 4,517,277.'"]
-    style T fill:#dbeafe,stroke:#3b82f6
-    style R fill:#dcfce7,stroke:#22c55e
+    style T fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style R fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

@@ -8,8 +8,8 @@
 flowchart TB
     A["❌ 'write something'"] --> B[🤷 vague output]
     C["✅ 'Write a 3-line<br/>birthday poem for my<br/>mom who loves gardening'"] --> D[🎯 great output]
-    style B fill:#fee2e2,stroke:#ef4444
-    style D fill:#dcfce7,stroke:#22c55e
+    style B fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style D fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 The quality of your input shapes the quality of the output.

@@ -11,8 +11,8 @@ flowchart LR
     C --> D[🏆 Reward model<br/>learns 'good' taste]
     D --> E[🧠 Model retrained<br/>to chase rewards]
     E --> F[😊 Helpful, polite AI]
-    style C fill:#fef3c7,stroke:#f59e0b
-    style F fill:#dcfce7,stroke:#22c55e
+    style C fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style F fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

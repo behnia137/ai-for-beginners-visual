@@ -10,8 +10,8 @@ flowchart LR
     P["💬 'a cat in a hat'"] -.guides every step.-> S1
     P -.-> S2
     P -.-> S3
-    style N fill:#e5e7eb,stroke:#6b7280
-    style S3 fill:#dcfce7,stroke:#22c55e
+    style N fill:#e5e7eb,stroke:#6b7280,color:#1f2937
+    style S3 fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

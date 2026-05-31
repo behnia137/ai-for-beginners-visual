@@ -9,8 +9,8 @@ flowchart LR
     Q["The trophy didn't fit in the suitcase<br/>because IT was too big."] --> A{👀 Attention}
     A -->|strong link| T["IT → trophy ✅"]
     A -->|weak link| S["IT → suitcase"]
-    style A fill:#fef3c7,stroke:#f59e0b
-    style T fill:#dcfce7,stroke:#22c55e
+    style A fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style T fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 The model decides "it" refers to the *trophy*, by paying more attention to the right word.

@@ -9,8 +9,8 @@ flowchart TB
     P["Prompt: 'The best pet is a ___'"]
     P --> L["🌡️ Low temp (0.1)<br/>→ 'dog' every time<br/>safe, predictable"]
     P --> H["🌡️ High temp (1.2)<br/>→ 'dog', 'axolotl', 'dragon'<br/>creative, risky"]
-    style L fill:#dbeafe,stroke:#3b82f6
-    style H fill:#fee2e2,stroke:#ef4444
+    style L fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style H fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
 ## 🔧 How it actually works

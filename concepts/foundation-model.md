@@ -11,7 +11,7 @@ flowchart TB
     F --> A2["💻 Coding tool"]
     F --> A3["⚖️ Legal assistant<br/>(fine-tuned)"]
     F --> A4["🎧 Support bot<br/>(fine-tuned)"]
-    style F fill:#fef3c7,stroke:#f59e0b
+    style F fill:#fef3c7,stroke:#f59e0b,color:#1f2937
 ```
 
 ## 🔧 How it actually works

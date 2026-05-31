@@ -12,8 +12,8 @@ flowchart TB
     subgraph Over["❌ Overfit (memorized the dots)"]
     O["wiggly line hitting every single dot,<br/>fails on new dots"]
     end
-    style Good fill:#dcfce7,stroke:#22c55e
-    style Over fill:#fee2e2,stroke:#ef4444
+    style Good fill:#dcfce7,stroke:#22c55e,color:#1f2937
+    style Over fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
 ## 🔧 How it actually works

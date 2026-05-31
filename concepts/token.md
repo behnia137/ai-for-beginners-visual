@@ -10,7 +10,7 @@ flowchart LR
     A --> C["believ"]
     A --> D["able"]
     B & C & D --> E["🔢 [892, 4531, 712]"]
-    style E fill:#dbeafe,stroke:#3b82f6
+    style E fill:#dbeafe,stroke:#3b82f6,color:#1f2937
 ```
 
 A word can be one token, or several. Each token becomes a number the model can do math on.

@@ -8,9 +8,9 @@
 flowchart TB
     N["🤖 Narrow AI (today)<br/>great at one task each:<br/>chat · images · chess"] --> G["🌅 AGI (hypothetical)<br/>human-level at<br/>ANY task"]
     G --> S["✨ ASI? (superintelligence)<br/>beyond human — speculative"]
-    style N fill:#dbeafe,stroke:#3b82f6
-    style G fill:#fef3c7,stroke:#f59e0b
-    style S fill:#fde68a,stroke:#d97706
+    style N fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style G fill:#fef3c7,stroke:#f59e0b,color:#1f2937
+    style S fill:#fde68a,stroke:#d97706,color:#1f2937
 ```
 
 ## 🔧 How it actually works

@@ -9,8 +9,8 @@ flowchart TB
     Q["❓ 'If I have 3 boxes of 4 apples<br/>and eat 5, how many are left?'"]
     Q --> X["❌ Straight to answer:<br/>'6' (wrong, rushed)"]
     Q --> C["✅ Chain of thought:<br/>3 × 4 = 12<br/>12 − 5 = 7<br/>Answer: 7"]
-    style X fill:#fee2e2,stroke:#ef4444
-    style C fill:#dcfce7,stroke:#22c55e
+    style X fill:#fee2e2,stroke:#ef4444,color:#1f2937
+    style C fill:#dcfce7,stroke:#22c55e,color:#1f2937
 ```
 
 ## 🔧 How it actually works

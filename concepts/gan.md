@@ -13,8 +13,8 @@ flowchart LR
     D --> V{Real or fake?}
     V -->|"feedback"| G
     V -->|"feedback"| D
-    style G fill:#dbeafe,stroke:#3b82f6
-    style D fill:#fef3c7,stroke:#f59e0b
+    style G fill:#dbeafe,stroke:#3b82f6,color:#1f2937
+    style D fill:#fef3c7,stroke:#f59e0b,color:#1f2937
 ```
 
 ## 🔧 How it actually works

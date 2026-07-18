@@ -1,6 +1,6 @@
 # 🔤 Token
 
-> **🧒 Explain Like I'm 5:** AI doesn't read whole words — it reads little puzzle pieces called tokens, and snaps them together.
+> **🧒 Explain Like I'm 5:** AI doesn't read whole words: it reads little puzzle pieces called tokens, and snaps them together.
 
 ## 🖼️ The Picture
 
@@ -17,7 +17,7 @@ A word can be one token, or several. Each token becomes a number the model can d
 
 ## 🔧 How it actually works
 
-Computers can't do math on letters, so text is first chopped into **tokens** — common chunks of characters — and each token is mapped to a number (an ID). A token is often a whole word ("cat"), but longer or rarer words get split ("tokenization" → "token" + "ization"). Spaces and punctuation count too.
+Computers can't do math on letters, so text is first chopped into **tokens** (common chunks of characters) and each token is mapped to a number (an ID). A token is often a whole word ("cat"), but longer or rarer words get split ("tokenization" → "token" + "ization"). Spaces and punctuation count too.
 
 A rough rule of thumb for English: **1 token ≈ 4 characters ≈ ¾ of a word.** So 100 tokens is about 75 words. This is why you'll sometimes see AI tools talk about "token limits" instead of word limits.
 

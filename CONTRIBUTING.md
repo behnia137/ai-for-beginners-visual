@@ -1,13 +1,13 @@
-# 🤝 Contributing to AI for Beginners — Visual Edition
+# 🤝 Contributing to AI for Beginners: Visual Edition
 
-First off: **thank you!** This project gets better every time someone adds a clearer analogy or a missing concept. You don't need to be an AI expert — if you can explain something simply, you can contribute.
+First off: **thank you!** This project gets better every time someone adds a clearer analogy or a missing concept. You don't need to be an AI expert: if you can explain something simply, you can contribute.
 
 ---
 
 ## 🌟 Ways to contribute
 
 - **Add a new concept** (the most valuable!)
-- **Improve an existing analogy** — make it clearer or more memorable
+- **Improve an existing analogy**: make it clearer or more memorable
 - **Fix or upgrade a diagram**
 - **Fix typos / grammar / broken links**
 - **Translate** a concept into another language
@@ -41,8 +41,8 @@ coffee," not "textbook."
 
 ## 🌍 Real-world example
 
-One concrete place the reader has already encountered this — an app, a product,
-or a daily situation.
+One concrete place the reader has already encountered this (an app, a product,
+or a daily situation).
 
 ## 🔗 Related
 
@@ -60,7 +60,7 @@ or a daily situation.
 ## ✅ Style guide (the whole thing)
 
 - **Analogy first.** If a 12-year-old wouldn't get the one-liner, simplify it.
-- **Show, don't just tell.** Every concept needs a diagram (mermaid preferred — GitHub renders it).
+- **Show, don't just tell.** Every concept needs a diagram (mermaid preferred, GitHub renders it).
 - **Short paragraphs.** 2–4 sentences each. White space is your friend.
 - **Explain every acronym** the first time you use it.
 - **Friendly & visual tone.** Emojis are welcome as signposts, not decoration overload.

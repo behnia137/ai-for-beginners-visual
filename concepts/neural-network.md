@@ -19,7 +19,7 @@ Inputs flow through layers of connected "neurons." Each connection has a weight 
 
 ## 🔧 How it actually works
 
-A neural network is loosely inspired by the brain. It's made of **neurons** arranged in layers: an input layer, one or more hidden layers, and an output layer. Each connection between neurons has a **weight** — a number that says how much that signal matters. Data flows in, gets multiplied and combined by all those weights, and an answer pops out the other end.
+A neural network is loosely inspired by the brain. It's made of **neurons** arranged in layers: an input layer, one or more hidden layers, and an output layer. Each connection between neurons has a **weight**: a number that says how much that signal matters. Data flows in, gets multiplied and combined by all those weights, and an answer pops out the other end.
 
 Learning happens through **feedback**. The network makes a prediction, compares it to the correct answer, and measures how wrong it was (the "loss"). Then a process called **backpropagation** traces that error backward and slightly adjusts every weight to make the mistake smaller next time. Repeat this millions of times and the dials settle into values that produce good answers.
 
@@ -27,7 +27,7 @@ What makes this powerful is **depth**. Early layers learn simple features (edges
 
 ## 🌍 Real-world example
 
-The system that recognizes your face to unlock your phone, filters spam out of your inbox, and lets your camera blur the background on video calls — all neural networks.
+The system that recognizes your face to unlock your phone, filters spam out of your inbox, and lets your camera blur the background on video calls: all neural networks.
 
 ## 🔗 Related
 

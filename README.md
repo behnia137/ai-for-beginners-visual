@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🧠 AI for Beginners — Visual Edition
+# 🧠 AI for Beginners: Visual Edition
 
 ### Understand AI in minutes, not months.
 
-**Simple visuals + everyday analogies that explain AI concepts to *everyone* — whether you write code or have never opened a terminal.**
+**Simple visuals + everyday analogies that explain AI concepts to *everyone*, whether you write code or have never opened a terminal.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -13,7 +13,7 @@
 [![Concepts](https://img.shields.io/badge/concepts-32-blueviolet.svg)](#-the-concepts)
 [![Stars Welcome](https://img.shields.io/badge/⭐_stars-welcome-gold.svg)](#)
 
-*If this helps you finally "get" AI — drop a ⭐. It helps more people find it.*
+*If this helps you finally "get" AI, drop a ⭐. It helps more people find it.*
 
 </div>
 
@@ -25,10 +25,10 @@ AI is everywhere, but most explanations are either **too technical** (walls of m
 
 This repo sits in the middle. Every concept gets:
 
-- 🧒 **An "Explain Like I'm 5" analogy** — the one-liner you'll actually remember
-- 🖼️ **A simple diagram** — see the idea, don't just read it
-- 🔧 **"How it actually works"** — for when you're ready to go deeper
-- 🌍 **A real-world example** — where you've already seen it in action
+- 🧒 **An "Explain Like I'm 5" analogy**: the one-liner you'll actually remember
+- 🖼️ **A simple diagram**: see the idea, don't just read it
+- 🔧 **"How it actually works"**: for when you're ready to go deeper
+- 🌍 **A real-world example**: where you've already seen it in action
 
 No PhD required. No prior coding needed. Just curiosity.
 
@@ -36,7 +36,7 @@ No PhD required. No prior coding needed. Just curiosity.
 
 ## 📚 The Concepts
 
-### 🌱 Start here — the foundations
+### 🌱 Start here: the foundations
 
 | # | Concept | One-liner |
 |---|---------|-----------|
@@ -51,13 +51,13 @@ No PhD required. No prior coding needed. Just curiosity.
 | 9 | [📖 RAG (Retrieval-Augmented Generation)](concepts/rag.md) | Letting AI "look things up" before answering. |
 | 10 | [🌀 Hallucination](concepts/hallucination.md) | When AI confidently makes stuff up. |
 
-### ⚙️ How it actually thinks — under the hood
+### ⚙️ How it actually thinks: under the hood
 
 | # | Concept | One-liner |
 |---|---------|-----------|
 | 11 | [⚙️ Transformer](concepts/transformer.md) | The engine that reads every word at once. |
 | 12 | [👀 Attention](concepts/attention.md) | Highlighting the words that matter most. |
-| 13 | [🌡️ Temperature](concepts/temperature.md) | The creativity dial — safe vs wild. |
+| 13 | [🌡️ Temperature](concepts/temperature.md) | The creativity dial (safe vs wild). |
 | 14 | [🔗 Chain of Thought](concepts/chain-of-thought.md) | Making the AI "show its work." |
 
 ### 🏗️ How it's built & trained
@@ -71,7 +71,7 @@ No PhD required. No prior coding needed. Just curiosity.
 | 19 | [🏛️ Foundation Model](concepts/foundation-model.md) | One giant base brain everything is built on. |
 | 20 | [🗜️ Quantization](concepts/quantization.md) | Shrinking a model to run on your laptop. |
 
-### 🛠️ Using AI — tools & applications
+### 🛠️ Using AI: tools & applications
 
 | # | Concept | One-liner |
 |---|---------|-----------|
@@ -83,7 +83,7 @@ No PhD required. No prior coding needed. Just curiosity.
 | 26 | [🌈 Multimodal](concepts/multimodal.md) | An AI that can see, hear, and read. |
 | 27 | [🛠️ Tool Calling](concepts/tool-calling.md) | How AI reaches out and uses real tools. |
 
-### ⚖️ Trust & limits — the fine print
+### ⚖️ Trust & limits: the fine print
 
 | # | Concept | One-liner |
 |---|---------|-----------|
@@ -113,7 +113,7 @@ flowchart LR
     style G fill:#fee2e2,stroke:#ef4444,color:#1f2937
 ```
 
-> **Read it in order** if you're brand new — each concept builds on the last.
+> **Read it in order** if you're brand new, each concept builds on the last.
 > **Jump around** if you already know the basics.
 
 ---
@@ -131,7 +131,7 @@ flowchart LR
 
 Know a concept we're missing? Have a better analogy? **We'd love your help.**
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the simple template — adding a concept takes about 10 minutes.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the simple template: adding a concept takes about 10 minutes.
 
 Good first additions: *Reinforcement Learning, Mixture of Experts (MoE), MCP, Deepfake, Backpropagation, Loss Function, Zero-shot vs Few-shot, Speech-to-Text / Text-to-Speech, Open vs Closed Models, AI Ethics.*
 
@@ -139,7 +139,7 @@ Good first additions: *Reinforcement Learning, Mixture of Experts (MoE), MCP, De
 
 ## 📜 License
 
-[MIT](LICENSE) — free to use, share, remix, and teach with. Attribution appreciated.
+[MIT](LICENSE): free to use, share, remix, and teach with. Attribution appreciated.
 
 ---
 
